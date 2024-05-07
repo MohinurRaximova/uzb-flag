@@ -3,4 +3,9 @@
     height: 400px;
     background-image: linear-gradient(to top, green 33%, red 33%, red, 36%, white 36%, white 66%, red 66%, red 69%, blue 69%);
     box-shadow: 10px 10px 10px #777;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    font-size: 32px;
+    color: rgb(0, 132, 255);
 }

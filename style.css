@@ -1,3 +1,9 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
 .uzb{
     width: 600px;
     height: 400px;
@@ -8,4 +14,12 @@
     align-items: flex-end;
     font-size: 32px;
     color: rgb(0, 132, 255);
+}
+.japan{
+    width: 600px ;
+    height: 400px;
+    background-image: radial-gradient(circle, red 33%, white 33%);
+    box-shadow: 10px 10px 10px #777;
+    margin-left: 20px;
+    border: 1px solid #777;
 }
